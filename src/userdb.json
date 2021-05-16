@@ -1,0 +1,37 @@
+[
+    {
+        "firstname": "Ram",
+        "lastname": "Mude",
+        "number": "1234567891",
+        "email": "ramdmude3061@gmail.com",
+        "password": "password1"
+    },
+    {
+        "firstname": "user1",
+        "lastname": "user",
+        "number": "1234567891",
+        "email": "user1@gmail.com",
+        "password": "password2"
+    },
+    {
+        "email": "user2@gmail.com",
+        "firstname": "user2",
+        "lastname": "user2",
+        "number": 1234567890,
+        "password": "user2"
+    },
+    {
+        "email": "rekhavdas@gmail.com",
+        "firstname": "Rekhav",
+        "lastname": "Das",
+        "number": 1234567890,
+        "password": "123456789"
+    },
+    {
+        "email": "user3@gmail.com",
+        "firstname": "user3",
+        "lastname": "user3",
+        "number": 1234567890,
+        "password": "user3"
+    }
+]

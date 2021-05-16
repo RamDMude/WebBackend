@@ -1,0 +1,99 @@
+[
+  {
+    "price":"$ 50",
+    "picture":"http://127.0.0.1:8000/Images/image1.jpg",
+    "name":"Levi's Black TShirt",
+    "oldprice":"$ 100",
+    "stock" : 3,
+    "color" : "Black",
+    "sleeve" : "half sleeve",
+    "material" : "Cotton",
+    "fit" : "Loose",
+    "suitable" : "Western Wear"
+  },
+  {
+    "price":"$ 50",
+    "picture":"http://127.0.0.1:8000/Images/image2.jpg",
+    "name":"Spunk OutofControl TShirt",
+    "oldprice":"$ 100",
+    "stock" : 6,
+    "color" : "Orange",
+    "sleeve" : "half sleeve",
+    "material" : "Cotton",
+    "fit" : "Loose",
+    "suitable" : "Western Wear"
+  },
+  {
+    "price":"$ 50",
+    "picture":"http://127.0.0.1:8000/Images/image3.jpg",
+    "name":"Levi's Plain Black TShirt",
+    "oldprice":"$ 100",
+    "stock" : 8,
+    "color" : "Black",
+    "sleeve" : "half sleeve",
+    "material" : "Cotton",
+    "fit" : "Loose",
+    "suitable" : "Western Wear"
+  },
+  {
+    "price":"$ 50",
+    "picture":"http://127.0.0.1:8000/Images/image4.jpg",
+    "name":"Levi's Navyblue TShirt",
+    "oldprice":"$ 100",
+    "stock" : 4,
+    "color" : "Navy Blue",
+    "sleeve" : "half sleeve",
+    "material" : "Cotton",
+    "fit" : "Loose",
+    "suitable" : "Western Wear"
+  },
+  {
+    "price":"$ 50",
+    "picture":"http://127.0.0.1:8000/Images/image5.jpg",
+    "name":"Duke Plain White TShirt",
+    "oldprice":"$ 100",
+    "stock" : 9,
+    "color" : "White",
+    "sleeve" : "half sleeve",
+    "material" : "Cotton",
+    "fit" : "Loose",
+    "suitable" : "Western Wear"
+  },
+  {
+    "price":"$ 50",
+    "picture":"http://127.0.0.1:8000/Images/image6.jpg",
+    "name":"USPA Plain White TShirt",
+    "oldprice":"$ 100",
+    "stock" : 1,
+    "color" : "White",
+    "sleeve" : "half sleeve",
+    "material" : "Cotton",
+    "fit" : "Loose",
+    "suitable" : "Western Wear"
+  },
+  {
+    "price":"$ 50",
+    "picture":"http://127.0.0.1:8000/Images/image7.jpg",
+    "name":"Adidas Green Strip TShirt",
+    "oldprice":"$ 100",
+    "stock" : 2,
+    "color" : "Green",
+    "sleeve" : "half sleeve",
+    "material" : "Cotton",
+    "fit" : "Loose",
+    "suitable" : "Western Wear"
+  },
+  {
+    "price":"$ 50",
+    "picture":"http://127.0.0.1:8000/Images/image8.jpg",
+    "name":"Van Husen Evil TShirt",
+    "oldprice":"$ 100",
+    "stock" : 5,
+    "color" : "White",
+    "sleeve" : "half sleeve",
+    "material" : "Cotton",
+    "fit" : "Loose",
+    "suitable" : "Western Wear"
+  }
+
+]
